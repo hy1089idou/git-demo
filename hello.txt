@@ -1,2 +1,4 @@
 hello this is my first git demo txt!
 this is my second change on github;
+
+myHomeWindows use ssh as the local store!
